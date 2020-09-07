@@ -10,5 +10,5 @@ se possuem uma relação mais direta e importante.
 
 ## Características do SRP nestas classes
  - Separamos a responsabilidade de cada objeto
- - Na conexão com banco de dados, usamos repositório
+ - Na conexão com banco de dados, usamos repositório, o qual está ferindo o DIP por ter uma conexão direta com banco, mas não trataremos disto aqui.
  - Criamos um ClientService para representar as ações para o cliente
