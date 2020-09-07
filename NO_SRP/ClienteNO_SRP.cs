@@ -3,7 +3,7 @@ using System.Data;
 using System.Data.SqlClient;
 using System.Net.Mail;
 
-namespace S.O.L.I.D.NO_SRP
+namespace SOLID.NO_SRP
 {
     public class ClienteNO_SRP
     {

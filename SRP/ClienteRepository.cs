@@ -2,7 +2,7 @@ using System;
 using System.Data;
 using System.Data.SqlClient;
 
-namespace S.O.L.I.D.SRP
+namespace SOLID.SRP
 {
     public class ClienteRepository
     {

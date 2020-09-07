@@ -1,5 +1,5 @@
 
-namespace S.O.L.I.D.SRP
+namespace SOLID.SRP
 {
     public class ClienteService
     {

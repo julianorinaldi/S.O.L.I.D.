@@ -1,6 +1,6 @@
 using System;
 
-namespace S.O.L.I.D.SRP 
+namespace SOLID.SRP 
 {
         public class SOLID_SRP_Cliente : IValidate
     {

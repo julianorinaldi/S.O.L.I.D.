@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace S.O.L.I.D
+namespace SOLID
 {
     class Program
     {
